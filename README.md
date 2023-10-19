@@ -1,7 +1,6 @@
 # API Rest utilizando ADO Net
 ## Descrição
-O projeto tem a finalidade de apresentar a implementação do Ado Net para efetuar um CRUD, abordando 
-o padrão de projeto Repository.
+Foi feita uma API utilizando o ADO Net para o gerenciamento do banco de dados, além de funções como Adicionar, Consultar e Excluir o Produto do banco SQL Server, foram realizadas diferentes formas de consulta para realizar uma paginação de dados, como por exemplo a consulta dos Produtos mais caros para os mais baratos.
 #
 ### Rotas da Aplicação
 + POST https://localhost:7206/api/Produto
